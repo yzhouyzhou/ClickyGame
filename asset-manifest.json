@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ClickyGame/static/css/main.82c9f2ba.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.36eef17c.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.36eef17c.chunk.js.map",
+    "runtime~main.js": "/ClickyGame/static/js/runtime~main.1df70f2f.js",
+    "runtime~main.js.map": "/ClickyGame/static/js/runtime~main.1df70f2f.js.map",
+    "static/js/2.bd2e74d0.chunk.js": "/ClickyGame/static/js/2.bd2e74d0.chunk.js",
+    "static/js/2.bd2e74d0.chunk.js.map": "/ClickyGame/static/js/2.bd2e74d0.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.a59a85a586b6774738e6d17b6d81c09e.js": "/ClickyGame/precache-manifest.a59a85a586b6774738e6d17b6d81c09e.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.82c9f2ba.chunk.css.map": "/ClickyGame/static/css/main.82c9f2ba.chunk.css.map",
+    "static/media/math-background.jpg": "/ClickyGame/static/media/math-background.14737e21.jpg"
+  }
+}
